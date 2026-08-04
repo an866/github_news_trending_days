@@ -1,0 +1,2 @@
+# github_news_trending_days_private
+私人每日笔记仓库，同步obsidian
