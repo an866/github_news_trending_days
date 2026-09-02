@@ -1,0 +1,5 @@
+# Normalize line endings.
+# Notes were being written with LF while git stored CRLF, which made files
+# show up as modified on every run even though the content was unchanged.
+*.md text eol=lf
+.gitattributes text eol=lf
